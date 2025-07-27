@@ -1,0 +1,6 @@
+
+MassKg=77
+HeightInM=1.63
+Bmi=MassKg/(HeightInM**2)
+
+print(Bmi)
