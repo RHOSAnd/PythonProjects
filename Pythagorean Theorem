@@ -1,0 +1,8 @@
+import math
+
+a=int(input('assign a value to a='))
+b=int(input('assign a value to b='))
+value = a**2 + b**2
+c=math.sqrt(value)
+
+print(c)
