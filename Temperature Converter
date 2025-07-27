@@ -1,0 +1,4 @@
+Farhenheit=82
+celcius=(Farhenheit-32)/1.8
+
+print(celcius)
