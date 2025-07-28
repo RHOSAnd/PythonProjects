@@ -1,0 +1,13 @@
+
+pesos= int(input('how many pesos do you have?: '))
+
+soles=int(input('how many soles do you have?: '))
+
+reais= int(input('how many reais do you have?: '))
+
+pesosinUSD=pesos*0.00024
+solesinUSD=soles*0.28
+reaisinUSD=reais*0.18
+Total= pesosinUSD+solesinUSD+reaisinUSD
+
+print(Total)
